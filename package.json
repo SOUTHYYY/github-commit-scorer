@@ -1,0 +1,12 @@
+{
+  "name": "github-commit-scorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "simple-git": "^3.22.0"
+  }
+}
